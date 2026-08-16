@@ -1,11 +1,11 @@
 Mondalandia is an accurate representation of how Colombia feels like, to be exact, how Pereira felt the earthquake that happened a week ago, your main character is a Capybara which has a really short travel and adventure cus pereira is small asf, once he jumps, dashes, and slashes thru arepas to gain currency, he will later use all of his savings to gamble it away in a custom made blackjack casino where you play against the dealer.
 This game was made in GameMaker and incorporates custom made pixel art, custom made audio and coding.
 
-![MainMenu](images/MainMenu.png)
+![MainMenu](Screenshots/MainMenu.png)
 
-![MainGame](images/MainGame.png)
+![MainGame](ScreenshotsMainGame.png)
 
-![Casino](images/Casino.png)
+![Casino](Screenshots/Casino.png)
 
 # CONTROLS AND KEYBINDS
 
