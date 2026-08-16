@@ -1,0 +1,1 @@
+playerInside = place_meeting(x, y, player);
