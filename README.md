@@ -3,7 +3,7 @@ This game was made in GameMaker and incorporates custom made pixel art, custom m
 
 ![MainMenu](Screenshots/MainMenu.png)
 
-![MainGame](ScreenshotsMainGame.png)
+![MainGame](Screenshots/MainGame.png)
 
 ![Casino](Screenshots/Casino.png)
 
